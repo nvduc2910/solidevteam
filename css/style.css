@@ -149,7 +149,7 @@ image-rendering: -moz-crisp-edges;*/
 image-rendering: -o-crisp-edges;
 image-rendering: -webkit-optimize-contrast;
 /*-ms-interpolation-mode: nearest-neighbor;*/
- width: 100%;
+ width: 70%;
 }
 
 .navbar-collapse{ padding-left:0; padding-right:0;}
