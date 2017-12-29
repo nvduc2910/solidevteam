@@ -1,0 +1,179 @@
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 320px) {
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+.navigation-outer .navbar-brand{ width:151px; padding:15px 10px;}
+
+.nav{ margin-top:25px;}
+
+.navbar-nav > li > a{ background:none; color:#58585a; font-size:14px; padding-left:12px; padding-right:12px;}
+
+.nav > li > a:hover, .nav > li > a:focus{ background:none;}
+
+.top-logo{ margin: 146px 0 50px;}
+
+.top-logo img{ width:300px;}
+
+.service-sec h2{ font-size:21px; margin-bottom:70px;}
+
+.service-sec h2:after{ top:9px;}
+
+.how-work-sec h2{ font-size:21px;}
+
+.how-work-sec h2:after{ top:9px;}
+
+.how-work-sec h2 span{ padding:9px 22px;}
+
+.how-work-sec ul.list-one li{ background:url(../images/tab-arrow.jpg) right center no-repeat; width:auto; padding:0 70px 0 0; display:inline-block; vertical-align:top; margin:0;}
+
+.how-work-sec ul.list-one li:last-child{ background:none; padding-right:0;}
+
+.how-work-sec ul.list-one li span{ display:block; padding:16px 34px; font-size:20px;}
+
+.arrow-down{ display:block; margin-right:90px;}
+
+.how-work-sec ul.list-two li{ background:url(../images/tab-arrow.jpg) right center no-repeat; width:auto; padding:0 70px 0 0; display:inline-block; vertical-align:top; margin:0;}
+
+.how-work-sec ul.list-two li:last-child{ background:none; padding-right:0;}
+
+.how-work-sec ul.list-two li span{ display:block; padding:16px 34px; font-size:16px;}
+
+.work-sec h2{ font-size:21px; margin-bottom:80px;}
+
+.work-sec h2:after{ top:9px;}
+
+.work-sec ul li{ width:46%; margin:0 13px 20px; display:inline-block; vertical-align:top;}
+
+.work-sec p a{ font-size:18px;}
+
+.testi-top h2{ font-size:30px;}
+
+.contact-outer h2{font-size:21px;}
+
+.contact-outer h2:after{ top:9px;}
+
+.contact-box{ margin-bottom:0;}
+
+.contact-box h5{ font-size:23px;}
+
+.contact-box p{ font-size:20px; margin-top:10px;}
+
+/***********************PopUp*****************************************************/
+
+.modal-dialog {
+  margin: 30px auto;
+  width: 700px;
+}
+
+.es-carousel ul li{ width:213px !important; margin:0 3px!important;}
+
+.popup-logo a{ width:180px;}
+
+
+
+}
+
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+
+.navbar-nav > li > a{ background:none; color:#58585a; font-size:16px; padding-left:15px; padding-right:15px;}
+
+.service-sec h4{ font-size:15px; margin:20px 0;}
+
+.how-work-sec ul.list-one li{ background:url(../images/arrow-right.jpg) right center no-repeat; width:auto; padding:0 166px 0 0; display:inline-block; vertical-align:top; margin:0 -4px 0 0;}
+
+.how-work-sec ul.list-one li:last-child{ background:none; padding-right:0;}
+
+.how-work-sec ul.list-one li span{ display:block; padding:17px 30px; font-size:22px;}
+
+.arrow-down{ margin-right:90px;}
+
+.how-work-sec ul.list-two li{ background:url(../images/arrow-right.jpg) right center no-repeat; width:auto; padding:0 166px 0 0; display:inline-block; vertical-align:top; margin:0 -4px 0 0;}
+
+.how-work-sec ul.list-two li:last-child{ background:none; padding-right:0;}
+
+.how-work-sec ul.list-two li span{ display:block; padding:17px 30px; font-size:17px;}
+
+.testi-top h2{ font-size:30px;}
+
+.contact-box h5{ font-size:27px;}
+
+.contact-box p{ font-size:23px; margin-top:15px;}
+
+
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+
+
+.how-work-sec h2{ margin-bottom:120px;}
+
+.how-work-sec ul.list-one li{ background:url(../images/arrow-right.jpg) right center no-repeat; width:auto; padding:0 166px 0 0; display:inline-block; vertical-align:top; margin:0 -4px 0 0;}
+
+.how-work-sec ul.list-one li:last-child{ background:none; padding-right:0;}
+
+.how-work-sec ul.list-one li span {
+  display: block;
+  font-size: 24px;
+  padding: 22px 55px;
+}
+
+.arrow-down{ margin-right:130px;}
+
+.how-work-sec ul.list-two li{ background:url(../images/arrow-right.jpg) right center no-repeat; width:auto; padding:0 166px 0 0; display:inline-block; vertical-align:top; margin:0 -4px 0 0;}
+
+.how-work-sec ul.list-two li:last-child{ background:none; padding-right:0;}
+
+.how-work-sec ul.list-two li span{ display:block; font-size:24px;
+    padding:22px 35px;}
+
+.work-sec ul li{ width:31%; margin:0 11px 30px; display:inline-block; vertical-align:top;}
+
+.work-sec ul li h5{ font-size:15px; margin-bottom:5px;}
+
+.testi-top .container{ width:1080px;}
+
+.testi-top p{ font-size:20px; line-height:normal;}
+
+.testi-top h4{ font-size:30px;}
+
+.owl-nav{ display:block;}
+
+.contact-box img.icon{ margin-top:10px;}
+
+.contact-box img.icon2{ margin-top:4px;}
+
+.contact-box{ text-align:left; min-height:140px; margin:0;}
+
+.contact-box h5 {
+  font-size:25px;
+  margin-top:12px;
+}
+
+.contact-box p{font-size: 20px;
+    margin-top:15px;}
+
+
+/***********************PopUp*****************************************************/
+
+.modal-dialog{ width:1080px;}
+
+.es-carousel ul li{ width:184px !important; margin:0 6px !important;}
+
+.popup-logo{ margin-top:340px;}
+
+
+
+}
+
+

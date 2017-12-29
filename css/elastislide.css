@@ -1,0 +1,87 @@
+/* Elastislide Style */
+.es-carousel-wrapper{
+	
+	padding: 8px 8px 8px 6px;
+	position:relative;
+ -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
+	position:relative;
+	background:#fff;
+	width:100%;
+	margin:0 auto 0;
+}
+
+
+.rg-image-wrapper{-webkit-box-ordinal-group: 1;
+    -moz-box-ordinal-group:1;
+    -ms-flex-order: 1;
+    -webkit-order: 1;
+    order: 1;}
+
+
+
+.es-carousel{
+	overflow:hidden;
+	
+}
+.es-carousel ul{
+	display:none;
+}
+.es-carousel ul li{
+	height:100%;
+	float:left;
+	padding:6px !important
+	display:block;
+	width:242px !important;
+	margin:0 6px !important;
+}
+.es-carousel ul li a{
+	display:block;
+	
+	
+	
+	-webkit-touch-callout:none;
+	/* option */
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.es-carousel ul li.selected a{
+	border-color:#fff;
+	opacity:1.0;
+}
+.es-carousel ul li a img{
+	display:block;
+	border:none;
+	max-height:100%;
+	max-width:100%;
+}
+.es-nav span{
+	position:absolute;
+	top:45%;
+	left:28px;
+	background:transparent url(../images/gallery-left-arrow.png) no-repeat top left;
+	width:15px;
+	height:28px;
+	
+	text-indent:-9000px;
+	cursor:pointer;
+	opacity:0.8;
+	background-size:100% auto;
+}
+.es-nav span.es-nav-next{
+	right:28px;
+	left:auto;
+	background:transparent url(../images/gallery-right-arrow.png) no-repeat top left;
+	width:15px;
+	height:28px;
+	background-size:100% auto;
+}
+.es-nav span:hover{
+	opacity:1.0;
+}
