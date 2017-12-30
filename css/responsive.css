@@ -65,12 +65,9 @@
 
 /***********************PopUp*****************************************************/
 
-.modal-dialog {
-  margin: 30px auto;
-  width: 700px;
-}
 
-.es-carousel ul li{ width:213px !important; margin:0 3px!important;}
+
+.es-carousel ul li{ width:170px !important; margin:0 4px!important;}
 
 .popup-logo a{ width:180px;}
 
@@ -168,10 +165,11 @@
 
 .modal-dialog{ width:1080px;}
 
-.es-carousel ul li{ width:184px !important; margin:0 6px !important;}
+.es-carousel ul li{ width:201px !important; margin:0 6px !important;}
 
 .popup-logo{ margin-top:340px;}
 
+.hire-btn{ margin-top:22px;r}
 
 
 }
