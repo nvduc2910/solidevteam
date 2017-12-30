@@ -48,6 +48,12 @@ $(document).on('click','.navbar-collapse.in',function(e) {
 
 
 
+function onpenSkype()
+{
+  var skypename = 'skypeuser01';
+  window.location = 'skype:' + skypename + '?chat';
+}
+
 
 
 
