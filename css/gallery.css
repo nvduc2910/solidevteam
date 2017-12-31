@@ -20,7 +20,7 @@
 	background:url(../images/gallery-left-arrow.png) no-repeat left center;
 	width:25px;
 	height:40px;
-	z-index:999999999;
+	z-index:999;
 	cursor:pointer;
 	font-size:0;
 	
