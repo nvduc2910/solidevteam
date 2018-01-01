@@ -276,13 +276,14 @@ image-rendering: -webkit-optimize-contrast;
 
 .contact-box{ width:100%; padding:20px 10px 20px 10px; background:#d8d8d8; -webkit-box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66);
 -moz-box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66);
-box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66); overflow:hidden; min-height:130px; text-align:center; margin-bottom:15px;}
+box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66); overflow:hidden; min-height:163px; text-align:center; margin:0 auto 15px;}
  
-.contact-box h5{ font-size:30px; color:#555555;}
 
-.contact-box p{ font-size:23px; margin-top:20px;}
+.contact-box h5{ font-size:20px; color:#555555;}
 
-.contact-box img{ display:block; margin:0  auto 20px;}
+.contact-box p{ font-size:17px; margin-top:10px;}
+
+.contact-box img{ display:block; margin:0 auto 10px; width:55px;}
 
 .socual-sec{ margin-top:30px; text-align:center;}
 

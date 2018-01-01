@@ -57,11 +57,13 @@
 
 .contact-outer h2:after{ top:9px;}
 
-.contact-box{ margin-bottom:0;}
+.contact-box{ margin-bottom:0; width:100%; min-height:164px;}
 
-.contact-box h5{ font-size:23px;}
+.contact-box img{ width:40px;}
 
-.contact-box p{ font-size:20px; margin-top:10px;}
+.contact-box h5{ font-size:20px; color:#555555;}
+
+.contact-box p{ font-size:17px; margin-top:10px;}
 
 /***********************PopUp*****************************************************/
 
@@ -100,9 +102,13 @@
 
 .testi-top h2{ font-size:30px;}
 
-.contact-box h5{ font-size:27px;}
+.contact-box{ min-height:184px;}
 
-.contact-box p{ font-size:23px; margin-top:15px;}
+.contact-box img{ width:55px;}
+
+.contact-box h5{ font-size:20px; color:#555555;}
+
+.contact-box p{ font-size:17px; margin-top:10px;}
 
 
 
@@ -150,7 +156,7 @@
 
 .contact-box img.icon2{ margin-top:4px;}
 
-.contact-box{ text-align:left; min-height:140px; margin:0;}
+.contact-box{ text-align:left; min-height:144px; margin:0;}
 
 .contact-box h5 {
   font-size:25px;
