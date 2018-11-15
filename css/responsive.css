@@ -1,6 +1,13 @@
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (min-width : 320px) {
+  .team-member-box {
+    width:100%; text-align:center; margin-bottom: 20px; padding: 0
+  }
+
+  .team-member .row {
+    margin-top: 0px;
+  }
 }
 
 
@@ -65,6 +72,14 @@
 
 .contact-box p{ font-size:17px; margin-top:10px;}
 
+.team-member-box {
+  width:100%; text-align:center; margin-bottom: 20px; padding: 0
+}
+
+.team-member .row {
+  margin-top: 0px;
+}
+
 /***********************PopUp*****************************************************/
 
 
@@ -109,7 +124,13 @@
 .contact-box h5{ font-size:20px; color:#555555;}
 
 .contact-box p{ font-size:17px; margin-top:10px;}
+.team-member-box {
+  width:100%; text-align:center; margin-bottom: 20px; padding: 0
+}
 
+.team-member .row {
+  margin-top: 0px;
+}
 
 
 }
@@ -165,6 +186,14 @@
 
 .contact-box p{font-size: 20px;
     margin-top:15px;}
+
+.team-member-box {
+  width:100%; text-align:center; margin-bottom: 20px; padding: 0
+}
+
+.team-member .row {
+  margin-top: 0px;
+}
 
 
 /***********************PopUp*****************************************************/

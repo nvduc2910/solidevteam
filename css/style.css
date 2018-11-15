@@ -287,7 +287,7 @@ image-rendering: -webkit-optimize-contrast;
 -moz-box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66);
 box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66); overflow:hidden; min-height:163px; text-align:center; margin:0 auto 15px;}
 
-.team-member-box{ width:100%; text-align:center; margin:0; padding: 0;}
+.team-member-box{ width:100%; text-align:center; margin:0; padding: 0}
 
 .team-member .row {
   margin-top: 60px;
