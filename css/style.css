@@ -234,6 +234,13 @@ image-rendering: -webkit-optimize-contrast;
 
 .work-sec h2 span{ background:#fff; padding:20px; position:relative; z-index:4;}
 
+
+.team-member h2{ text-align:center; position:relative; color:#c9c9c9; font-size:22px; text-transform:uppercase; font-family: 'Conv_Avenir Next Bold'; margin-bottom:40px;}
+
+.team-member h2:after{ width:100%; height:2px; background:#999; left:0; top:9px; content:''; position:absolute;}
+
+.team-member h2 span{ background:#2F302F; padding:20px; position:relative; z-index:4; color: #D8D8D8;}
+
 .work-sec ul{ margin:0; padding:0; text-align:center;}
 
 .work-sec ul li{ width:100%; margin:10px 0; padding:10px; text-align:left; border:1px solid #f1f1f1;}
@@ -253,6 +260,8 @@ image-rendering: -webkit-optimize-contrast;
 .gallery-sec img{ width:100%;}
 
 .testi-top{ padding:30px 0 25px; margin-top:30px; width:100%; background:#2f302f;}
+
+.team-member{ padding:30px 0 25px; width:100%; background:#2f302f;}
 
 .testi-top h2{ text-align:center; color:#fff;  font-family: 'Conv_Avenir Next Bold'; font-size:25px;}
 
@@ -277,6 +286,26 @@ image-rendering: -webkit-optimize-contrast;
 .contact-box{ width:100%; padding:20px 10px 20px 10px; background:#d8d8d8; -webkit-box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66);
 -moz-box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66);
 box-shadow: 0px 2px 0px 1px rgba(0,0,0,0.66); overflow:hidden; min-height:163px; text-align:center; margin:0 auto 15px;}
+
+.team-member-box{ width:100%; text-align:center; margin:0; padding: 0;}
+
+.team-member .row {
+  margin-top: 60px;
+}
+
+.team-member-box .mem-info-name {
+  margin-top: 30px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold
+}
+
+.team-member-box .mem-info-title {
+  margin-top: 10px;
+  color: #f05f40;
+  font-size: 20px;
+  font-weight: bold
+}
  
 
 .contact-box h5{ font-size:20px; color:#555555;}
