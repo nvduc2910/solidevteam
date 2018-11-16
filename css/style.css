@@ -177,7 +177,7 @@ image-rendering: -webkit-optimize-contrast;
     -webkit-backface-visibility: visible;
 }
 
-.flexslider .slides img {/*width: 100%;*/ display: block;}
+.flexslider .slides img {width: 100%; display: block;}
 
 .flex-direction-nav{ display:none;}
 
